@@ -12,13 +12,13 @@
   <a href="https://lupo.ai"><strong>Explore Lupo.ai »</strong></a>
   <br>
   <br>
-  <a href="https://addonsbc.github.io/Test/">Main page</a>
+  <a href="https://addonsbc.github.io/Lupo-Pages/">Main page</a>
   ·
-  <a href="https://addonsbc.github.io/Test/About">About</a>
+  <a href="https://addonsbc.github.io/Lupo-Pages/About">About</a>
   ·
-  <a href="https://addonsbc.github.io/Test/Services">Services</a>
+  <a href="https://addonsbc.github.io/Lupo-Pages/Services">Services</a>
   ·
-  <a href="https://addonsbc.github.io/Test/Speakers">Speakers</a>
+  <a href="https://addonsbc.github.io/Lupo-Pages/Speakers">Speakers</a>
 </p>
 
 
