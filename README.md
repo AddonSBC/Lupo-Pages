@@ -18,8 +18,8 @@ Test
     </tr>
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/4.2/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
+  <a href="https://lupo.ai">
+    <img src="https://i.ibb.co/gr1qRgs/Untitled.png" alt="Lupo Background">
   </a>
 </p>
 
