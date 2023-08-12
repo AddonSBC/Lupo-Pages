@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://w.wallhaven.cc/full/83/wallhaven-83jelj.jpg" alt="Bootstrap logo">
+    <img src="https://i.ibb.co/FBCnbYZ/wallhaven-83jelj.jpg" alt="Lupo logo" height="80">
   </a>
 </p>
 
@@ -14,11 +14,11 @@
   <br>
   <a href="https://addonsbc.github.io/Test/">Main page</a>
   Â·
-  <a href="https://addonsbc.github.io/Test/404">About</a>
+  <a href="https://addonsbc.github.io/Test/About">About</a>
   Â·
-  <a href="https://addonsbc.github.io/Test/Test">Speakers</a>
+  <a href="https://addonsbc.github.io/Test/Services">Services</a>
   Â·
-  <a href="https://addonsbc.github.io/Test/404">Docs</a>
+  <a href="https://addonsbc.github.io/Test/Speakers">Speakers</a>
 </p>
 
 
