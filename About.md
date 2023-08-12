@@ -2,8 +2,8 @@
 <h1 align= "right"> About us </h1>
 <h2 align= "right">  We are a team of experienced educators, developers, and designers who are passionate about making learning accessible and engaging for everyone. </h2>
 
-  <a href="https://lupo.ai">
-    <img src="https://lupo.ai/img/about.jpg" class="img-fluid w-75 rounded" alt="Lupo logo" height="80">
+  <a href="https://lupo.ai/#about">
+    <img src="https://lupo.ai/img/about.jpg" class="img-fluid w-75 rounded" alt="Lupo logo" height="100">
   </a>
 
 <p align= "right">
