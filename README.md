@@ -23,13 +23,20 @@ Test
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">Pages Attempt</h3>
 
-<p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-  <br>
-  <a href="https://getbootstrap.com/docs/4.2/"><strong>Explore Bootstrap docs Â»</strong></a>
+<p align="center"> Pages access </p>
   <br>
   <br>
-  <a href="https://addonsbc.github.io/Test/README.md">README</a>
+  <a href="https://addonsbc.github.io/Test/README">Main Page</a>
+  <br>
+  <a href="https://addonsbc.github.io/Test/Test">Voice Test</a>
+</p>
+
+<p align="center"> Raw Code access </p>
+  <br>
+  <br>
+  <a href="https://addonsbc.github.io/Test/README.md">README.md</a>
+  <br>
+  <a href="https://addonsbc.github.io/Test/Test.md">Test.md</a>
 </p>
