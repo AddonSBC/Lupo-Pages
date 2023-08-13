@@ -20,5 +20,3 @@
   ·
   <a href="https://addonsbc.github.io/Lupo-Pages/Speakers">Speakers</a>
 </p>
-
-
