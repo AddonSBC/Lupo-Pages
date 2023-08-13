@@ -1,6 +1,6 @@
 
 <h1> About us </h1>
-<h3>  We are a team of experienced educators, developers, and designers who are passionate about making learning accessible and engaging for everyone. </h2>
+<h3>  We are a team of experienced educators, developers, and designers who are passionate about making learning accessible and engaging for everyone. </h3>
 
 <p>
 <img src="https://lupo.ai/img/about.jpg" class="img-fluid" alt="Lupo About" height="100" align= "right">
