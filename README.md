@@ -19,9 +19,9 @@ layout: default
   <br>
   <a href="https://addonsbc.github.io/Lupo-Pages/">Main page</a>
   ·
-  <a href="https://addonsbc.github.io/Lupo-Pages/About">About</a>
+  <a href="https://addonsbc.github.io/Lupo-Pages/_posts/About">About</a>
   ·
-  <a href="https://addonsbc.github.io/Lupo-Pages/Services">Services</a>
+  <a href="https://addonsbc.github.io/Lupo-Pages/_posts/Services">Services</a>
   ·
-  <a href="https://addonsbc.github.io/Lupo-Pages/Speakers">Speakers</a>
+  <a href="https://addonsbc.github.io/Lupo-Pages/_posts/Speakers">Speakers</a>
 </p>
