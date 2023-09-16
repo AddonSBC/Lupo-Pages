@@ -2,7 +2,7 @@
 title: Lupo Pages beta
 description: 'Create your own instructional videos using high-end artificial intelligence tech!' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
-baseurl: "./Lupo-Pages/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://addonsbc.github.io/Lupo-Pages/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
@@ -31,7 +31,7 @@ about-author: Author, Speaker and Presenter at Big Data Inc and Lupo.ai.
 # Contact links
 email: help@lupo.ai # Add your Email address
 phone: +1 404 940 5306 # Add your Phone number
-website: https://amaynez.github.io # Add your website
+website: https://lupo.ai # Add your website
 linkedin: xmorera # Add your Linkedin handle
 github: xmorera # Add your Github handle
 twitter: '@the_xmorera' # Add your Twitter handle
